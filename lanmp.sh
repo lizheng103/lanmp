@@ -1,7 +1,6 @@
 #!/bin/bash
 ## written by aming.
 ## 2015-06-24.
-dfsdfsdfsdfsfsdfsdewqrwerwedfgdcvbvvbc
 #######Begin########
 echo "It will install lamp or lnmp."
 sleep 1
